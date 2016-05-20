@@ -4,12 +4,16 @@ Open Source software that allows running multiple clients and servers for intero
 
 This software is currently Very Alpha
 
+If you would like help integrating the software, are interested in commercial licensing and support or would like to become a partner please see www.tech4ind.com/indis
+
 Potential Uses involve
 - Web Server
 - IoT Server
 - Embeded Devices
 - Transmitting Data Behind Firewalls
 - Many More
+
+Build Instructions are provided in the Wiki (future)
 
 Architectural Features (All in progress)
 - Based on QT V5 and written in C++ (and some C)
