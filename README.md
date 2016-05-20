@@ -20,3 +20,7 @@ If you wish to contribute you have a number of options
 - Submit Issues via Github
 - Sign a Contribution Agreement to become a repository contributor
 - Provide A Plugin or Extend Functionality as a Library or Fork(must meet certain requrements to become Official, see wiki)
+- Aquire a Developer License from t4i
+
+Commercial Options
+If you have Interest in Commercial Licensing, Development, or Partnership please see www.tech4ind.com/indis
