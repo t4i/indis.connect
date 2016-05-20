@@ -1,0 +1,39 @@
+Indis.Connect ("This Program") is a Open Source software that allows running multiple clients and servers for interoperation, converting, transmitting, modifying, and reacting to data.    
+
+Copyright (C) 2016 Tech for Industry LLC
+
+This Program is free software: you can redistribute it and/or modify 
+it under the terms of the GNU Affero General Public License ("The License") 
+as published by the Free Software Foundation, either version 3 of the License, 
+or (at your option) any later version.
+
+This Program is distributed in the hope that it will be useful, but 
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License 
+for more details.
+
+You should have received a copy of the GNU Affero General Public License 
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Additional Permission ("This Additional Permission")
+
+Linking This Program statically or dynamically with other modules is making a 
+combined work based on This Program. Thus, the terms and conditions of The License 
+cover the whole combination.
+
+As a special exception, the copyright holders of This Program give you permission
+to combine This Program with software programs or libraries that are released under 
+the Indis Open Developer License v1 or later, or the Indis Commercial Developer 
+License v1 or later (individually "Developer License"), that communicate with This 
+Program. You may copy and distribute such a system following the terms of The License 
+for This Program and the Developer License of the other code concerned, provided that 
+a copy of the Developer License is included.
+
+Note that people who make modified versions of This Program are not obligated to grant 
+this special exception for their modified versions; it is their choice whether to do so. 
+The License gives permission to release a modified version without this exception; this 
+exception also makes it possible to release a modified version which carries forward 
+this exception.
+
+This exception is an additional permission under section 7 of the GNU General Public 
+License, version 3 (“GPLv3”)
