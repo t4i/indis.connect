@@ -2,6 +2,8 @@
 #####[Brought to you By Tech for Industry (t4i)](http://www.tech4ind.com)
 Open Source software that allows running multiple clients and servers for interoperation, converting, transmitting, modifying, and reacting to data
 
+This software is currently Very Alpha
+
 Potential Uses involve
 - Web Server
 - IoT Server
