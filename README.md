@@ -2,6 +2,13 @@
 #####[Brought to you By Tech for Industry (t4i)](http://www.tech4ind.com)
 Open Source software that allows running multiple clients and servers for interoperation, converting, transmitting, modifying, and reacting to data
 
+Potential Uses involve
+- Web Server
+- IoT Server
+- Embeded Devices
+- Transmitting Data Behind Firewalls
+- Many More
+
 Architectural Features (All in progress)
 - Based on QT V5 and written in C++ (and some C)
 - Web based management console
